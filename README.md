@@ -1,6 +1,6 @@
 # NaviGuide: Senior Capstone Project
 
-NaviGuide is a navigational system designed to provide visually impaired individuals with independence in their day-to-day indoor tasks. The project uses a robot and computer vision to map designated areas within the home and provide auditory instructions to avoid obstacles. To meet the demands and scope of the project, a prototype was created that used red cones as obstacles for demonstration purposes.
+NaviGuide is a navigational system designed to provide visually impaired individuals with some independence in their day-to-day indoor tasks. The project uses a robot and computer vision to map designated areas within the home and provide auditory instructions to avoid obstacles. To meet the demands and scope of the project, a prototype was created that used red cones as obstacles for demonstration purposes.
 
 ## Project Images
 
